@@ -1,6 +1,10 @@
 # TikTrack-API
 Offical TikTrack API Documentation for unoffical TikTok Backend
 
+#### Next Release:
+- User QR Code
+- Risk Link Checker
+
 ## Site: https://tiktrack.einzzcookie.org/ <-- Here you can get your free/paid API key
 ## API: https://tiktrack.einzzcookie.org/api/
 
@@ -53,7 +57,9 @@ Example Output:
     "videoCount": 0,
     "totalVideoCount": 0,
     "hiddenVideoCount": 0,
-    "friendCount": 9
+    "friendCount": 9,
+    "totalStoryCount": 1,
+    "lastStoryTime": "2026-07-23T01:12:40.020Z"
   }
 }
 ```
